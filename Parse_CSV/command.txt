@@ -1,0 +1,6 @@
+chmod +x weather_to_humidity.sh
+./weather_to_humidity.sh
+
+python csv_reader sample_high_humidity.csv
+cat high_humidity.csv | wc -l
+cat sample_high_humidity.csv | wc -l
