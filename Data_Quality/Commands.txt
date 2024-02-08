@@ -1,0 +1,4 @@
+python check_missing.py weatherHistory_missing.csv
+python check_range.py weatherHistory.csv
+python check_datetimes.py weatherHistory.csv
+python visualization.py weatherHistory.csv
