@@ -1,0 +1,42 @@
+    [
+      {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b445f225-af7c-4f8e-9f68-f48c1a931e2e.jpg?im_w=720",
+      "title": "Apartment in London",
+      "subtitles": ["Period Pimlico hideaway (self contained annexe)", "1 bed", "Feb 29 – Mar 5"],
+      "price": { "currency": "$", "value": 157, "period": "night" },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/30722148"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/672fa3fd-e316-4843-9e28-343a1f923f1e.jpg?im_w=720",
+      "title": "Private room in London",
+      "subtitles": ["Colourful double room in Camberwell", "1 double bed", "Sep 26 – Oct 1"],
+      "price": { "currency": "$", "value": 47, "period": "night" },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/8415990"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9588635/c7d04935_original.jpg?im_w=720",
+      "title": "Private room in London",
+      "subtitles": ["London room - 15 mins to Eurostar", "1 double bed", "Oct 29 – Nov 3"],
+      "price": { "currency": "$", "value": 57, "period": "night" },
+      "rating": 4.72,
+      "link": "https://www.airbnb.com/rooms/711425"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-52576905/original/e76097a1-d7d2-402b-978b-c31696548981.jpeg?im_w=720",
+      "title": "Private room in Lewisham",
+      "subtitles": ["Spacious flat in attractive location", "1 king bed", "Jul 21 – 26"],
+      "price": { "currency": "$", "value": 46, "period": "night" },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/52576905"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/65431302/e31e2805_original.jpg?im_w=720",
+      "title": "Private room in London",
+      "subtitles": ["Single private room in central flat", "1 single bed", "Jul 30 – Aug 4"],
+      "price": { "currency": "$", "value": 86, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/4792857"
+    }
+  ]
