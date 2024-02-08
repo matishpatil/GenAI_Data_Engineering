@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "id",
+    "first_name",
+    "last_name", 
+    "email",
+    "favorite_color",
+    "ip_address"
+  ],
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "first_name": {
+      "type": "string"
+    },
+    "last_name": {
+     "type": "string"
+    },
+    "email": {
+      "type": "string",
+      "format": "email"
+    },
+    "favorite_color": {
+      "type": "string"
+    },
+    "ip_address": {
+      "type": "string",
+      "format": "ipv4"
+    }
+  },
+  "additionalProperties": false
+}

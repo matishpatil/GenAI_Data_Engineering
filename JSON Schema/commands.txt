@@ -1,0 +1,4 @@
+pip install jsonschema
+
+python validate.py mock_data.json mock_json_schema.json
+python validate2.py mock_data.json mock_json_schema2.json
